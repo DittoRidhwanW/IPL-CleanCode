@@ -1,4 +1,7 @@
 package defensiveProgramming;
+
+import java.util.Scanner;
+
 public class Assertion {
     public static void main(String[] args) {
     int age = 14;
